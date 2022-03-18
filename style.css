@@ -136,6 +136,7 @@
         flex-direction: column;
         gap: 44px;
         text-align: justify;
+        margin-left: 3px;
     }
 
     .p1{
@@ -151,7 +152,7 @@
         flex-direction: column;
         justify-content: center;
         gap: 20px;
-        margin-right: 90px;
+        margin-right: 80px;
     }
 
 .dragonFly{
@@ -225,7 +226,7 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        margin-right: 130px;
+        margin-right: 140px;
         gap: 28px;
         /* margin-top: px; */
     }
@@ -239,7 +240,7 @@
         flex-direction: column;
         justify-content: center;
         margin-top: 10px;
-        margin-left: 54px;
+        margin-left: 60px;
         gap: 68px;
     
 
